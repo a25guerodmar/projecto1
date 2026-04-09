@@ -11,7 +11,7 @@
                 <label for="descripcion">Descripción</label>
                 <textarea placeholder="Descripción" class="form-control" name="descripcion" id="descripcion" cols="30" rows="10" required></textarea>
             </div>
-            <div class="form-group"><button class="btn btn-success">Guardar</button></div>
+            <div class="form-group"><button class="btn btn-success">Guardar</button> <a class="btn btn-warning" href="index.php">Volver</a></div>
         </form>
     </div>
 </div>

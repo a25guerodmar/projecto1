@@ -32,3 +32,4 @@ $videojuegos = $resultado->fetch_all(MYSQLI_ASSOC);
                 <?php } ?>
             </tbody>
         </table>
+        <a class="btn btn-warning" href="index.php">Volver</a>
